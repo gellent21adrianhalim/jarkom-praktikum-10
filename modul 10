@@ -1,0 +1,16 @@
+C:\Users\gelle>cd C:\Users\gelle\OneDrive\Dokumen\Python2
+C:\Users\gelle\OneDrive\Dokumen\Python2>server.py
+C:\Users\gelle\OneDrive\Dokumen\Python2>server.py
+Host: localhost
+Port: 0001
+
+(base) C:\Users\gelle\OneDrive\Dokumen\Python2>client.py
+Host: localhost
+Port: 0001
+Hallo apakabar gellent?
+
+(base) C:\Users\gelle\OneDrive\Dokumen\Python2>client.py
+Host: localhost
+Port: 0001
+Hallo apakabar gellent?
+baik..!!!
